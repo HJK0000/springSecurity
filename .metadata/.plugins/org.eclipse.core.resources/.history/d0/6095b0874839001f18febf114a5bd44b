@@ -1,0 +1,17 @@
+package com.example.TestSecurity.service;
+
+import org.springframework.stereotype.Service;
+
+import com.example.TestSecurity.dto.JoinDto;
+
+@Service
+public class JoinService {
+
+	
+	public void joinProcess(JoinDto joinDto) {
+		
+		
+		
+		
+	}
+}

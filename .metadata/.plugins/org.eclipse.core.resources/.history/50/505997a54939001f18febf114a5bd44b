@@ -1,0 +1,22 @@
+package com.example.TestSecurity.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.example.TestSecurity.dto.JoinDto;
+import com.example.TestSecurity.repository.UserRepository;
+
+@Service
+public class JoinService {
+	
+	@Autowired
+	UserRepository userRepository;
+	
+	public void joinProcess(JoinDto joinDto) {
+		
+		
+		
+		
+		
+	}
+}

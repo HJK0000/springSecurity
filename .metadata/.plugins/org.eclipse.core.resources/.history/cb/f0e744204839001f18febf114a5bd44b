@@ -1,0 +1,5 @@
+package com.example.TestSecurity.dto;
+
+public class JoinDto {
+
+}
